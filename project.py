@@ -72,7 +72,7 @@ def compare_images(captured_image_path, database_image_path):
 
 def send_email(image_path, subject, body):
     sender_email = "saranyabs1804@gmail.com"
-    sender_password = "cpbg wdju mkzm zxis"
+    sender_password = "xxxx xxxx xxxx xxxx"
     receiver_email = "saranya.bs04@gmail.com"
 
     msg = MIMEMultipart()
